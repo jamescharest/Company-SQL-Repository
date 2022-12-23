@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">department</Data></Cell>
+			<Cell><Data ss:Type="String">division</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Automotive</Data></Cell>
+			<Cell><Data ss:Type="String">Hardware</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Beauty</Data></Cell>
+			<Cell><Data ss:Type="String">Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Books</Data></Cell>
+			<Cell><Data ss:Type="String">Entertainment</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Camping & Fishing</Data></Cell>
+			<Cell><Data ss:Type="String">Outdoors</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Children Clothing</Data></Cell>
+			<Cell><Data ss:Type="String">Kids</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Clothing</Data></Cell>
+			<Cell><Data ss:Type="String">Home</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Computers</Data></Cell>
+			<Cell><Data ss:Type="String">Electronics</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cosmetics</Data></Cell>
+			<Cell><Data ss:Type="String">Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Decor</Data></Cell>
+			<Cell><Data ss:Type="String">Home</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Device Repair</Data></Cell>
+			<Cell><Data ss:Type="String">Electronics</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">First Aid</Data></Cell>
+			<Cell><Data ss:Type="String">Health</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Furniture</Data></Cell>
+			<Cell><Data ss:Type="String">Home</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Games</Data></Cell>
+			<Cell><Data ss:Type="String">Entertainment</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Garden</Data></Cell>
+			<Cell><Data ss:Type="String">Outdoors</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grocery</Data></Cell>
+			<Cell><Data ss:Type="String">Home</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jewelry</Data></Cell>
+			<Cell><Data ss:Type="String">Fashion</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Movies</Data></Cell>
+			<Cell><Data ss:Type="String">Entertainment</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Music</Data></Cell>
+			<Cell><Data ss:Type="String">Entertainment</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Pharmacy</Data></Cell>
+			<Cell><Data ss:Type="String">Health</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Phones & Tablets</Data></Cell>
+			<Cell><Data ss:Type="String">Electronics</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sports</Data></Cell>
+			<Cell><Data ss:Type="String">Outdoors</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Tools</Data></Cell>
+			<Cell><Data ss:Type="String">Hardware</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Toys</Data></Cell>
+			<Cell><Data ss:Type="String">Kids</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Vitamins</Data></Cell>
+			<Cell><Data ss:Type="String">Health</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
